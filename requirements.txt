@@ -1,0 +1,7 @@
+streamlit
+torch>=1.12
+transformers>=4.30
+torchvision
+Pillow
+reportlab
+tqdm
